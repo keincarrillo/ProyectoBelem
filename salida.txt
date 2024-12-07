@@ -1,0 +1,7 @@
+probar con 
+ls
+ls -l -a
+ls | wc | cat
+ls | wc | cat > archivo.txt
+wc< archivo.txt
+sort < archivo.txt | uniq > salida.txt
