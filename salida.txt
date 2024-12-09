@@ -3,5 +3,5 @@ ls
 ls -l -a
 ls | wc | cat
 ls | wc | cat > archivo.txt
-wc< archivo.txt
-sort < archivo.txt | uniq > salida.txt
+wc -w < archivo.txt
+sort < archivo.txt | uniq > salida2.txt

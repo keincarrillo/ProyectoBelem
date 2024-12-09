@@ -121,6 +121,7 @@ void execute_command(char *input) {
 }
 
 int main() {
+    system("clear");
     char input[MAX_INPUT];
     const char *username = getenv("USER");
 
