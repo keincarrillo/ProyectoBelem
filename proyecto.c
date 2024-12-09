@@ -104,7 +104,7 @@ void execute_command(char *input) {
             fprintf(stderr, RED "%s: no se encontró la orden\n" RESET, args[0]);
             exit(1);
         } else if (pid < 0) {
-            perror(RED "Error al crear el proceso" RESET);
+            fprintf(stderr, RED ": Error al crear el proceso \n" RESET);
             exit(1);
         }
     }
