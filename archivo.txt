@@ -1,6 +1,9 @@
-      5       5      55
-hola buenas noches
-como amanecio la gente madurgaodra
-lolololo 
-aaaa
-zzzzz
+total 44
+drwxrwxr-x  3 kein kein  4096 dic  9 17:12 .
+drwxr-xr-x 17 kein kein  4096 dic  6 23:09 ..
+-rw-rw-r--  1 kein kein     0 dic  9 17:13 archivo.txt
+drwxrwxr-x  8 kein kein  4096 dic  9 17:12 .git
+-rwxrwxr-x  1 kein kein 16992 dic  9 17:12 proyecto
+-rw-rw-r--  1 kein kein  3868 dic  9 17:11 proyecto.c
+-rw-rw-r--  1 kein kein    99 dic  9 17:11 salida2.txt
+-rw-rw-r--  1 kein kein   126 dic  9 17:11 salida.txt
