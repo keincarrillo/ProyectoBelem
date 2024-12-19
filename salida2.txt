@@ -1,9 +1,9 @@
-total 44
-drwxrwxr-x  3 kein kein  4096 dic 17 18:26 .
+total 48
+drwxrwxr-x  3 kein kein  4096 dic 17 22:01 .
 drwxr-xr-x 17 kein kein  4096 dic  6 23:09 ..
 -rw-rw-r--  1 kein kein   418 dic  9 17:13 archivo.txt
-drwxrwxr-x  8 kein kein  4096 dic 17 18:26 .git
--rwxrwxr-x  1 kein kein 16992 dic 17 18:26 proyecto
--rw-rw-r--  1 kein kein  3868 dic  9 17:11 proyecto.c
--rw-rw-r--  1 kein kein     0 dic 17 18:27 salida2.txt
+drwxrwxr-x  8 kein kein  4096 dic 17 22:02 .git
+-rwxrwxr-x  1 kein kein 16992 dic 17 22:01 proyecto
+-rw-rw-r--  1 kein kein  6044 dic 17 22:01 proyecto.c
+-rw-rw-r--  1 kein kein     0 dic 17 22:03 salida2.txt
 -rw-rw-r--  1 kein kein   126 dic  9 17:11 salida.txt
